@@ -1,4 +1,6 @@
-## Hi there 👋
+Olá, sou Gabriella Sampaio
+
+
 
 <!--
 **Gabriella-Sampaio/Gabriella-Sampaio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
