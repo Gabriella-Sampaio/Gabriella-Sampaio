@@ -1,4 +1,6 @@
-Olá, sou Gabriella Sampaio
+#Projeto TCC
+##1º Semestre de 2026 - Etec Adolpho Berezin
+https://github.com/etecab/hidrosafe
 
 
 
